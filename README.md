@@ -1,3 +1,9 @@
-# Stanford CS144 Study Notes
+# [Stanford CS144: Introduction to Computer Networking](https://www.learncs.site/docs/curriculum-resource/cs144/winter_2024)
 
-Personal study materials for Stanford CS144 (Computer Networking). This archive currently contains notes on networking fundamentals.
+This repo is my record of working through CS144: my notes, homework and labs, plus any supplementary resources I found useful for learning the material.
+
+## Layout
+
+```
+1 Networking Fundamentals/
+```
